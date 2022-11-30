@@ -1,6 +1,11 @@
 #list of users
-simon 
-peter
-paul
-chi
-oper
+simon
+Sylvie
+Eric
+Landmark
+Jessica
+Rudolf
+Chuka
+Ken
+Evolie
+Kenedy
