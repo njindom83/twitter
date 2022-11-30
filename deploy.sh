@@ -6,3 +6,4 @@ deployment4
 deploy to staing env
 echo good job
 Tested and accepted
+deploy from JBoss
